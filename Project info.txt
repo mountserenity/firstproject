@@ -1,0 +1,6 @@
+make a basic website which has the all following.
+1 form done
+2 anchor link done
+3 divs (h-c-f) done
+4 include border to form
+5 colorful
